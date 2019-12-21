@@ -1,6 +1,6 @@
 # Awesome Astronomy
 
-Una lista `awesome` de proyectos astronómicos, clasificada por secciones.
+Una lista impresionante (_list awesome_) de proyectos astronómicos, clasificada por secciones.
 
 Blogs:
 - [Astrosigma](https://astrosigma.com/), completo portal de astronomía
